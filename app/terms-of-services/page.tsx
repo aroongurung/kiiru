@@ -12,7 +12,7 @@ export default function TermsofServices() {
                     <section className="mb-8">
                     <h2 className="text-2xl font-semibold text-gray-800">1. Introduction</h2>
                     <p className="mt-2 text-gray-600">
-                        Welcome to <span className="font-bold">Kiiru</span>. By using our website and services ("Services"), you agree to comply with and be bound by the following Terms of Service. Please read them carefully.
+                        Welcome to <span className="font-bold">Kiiru</span>. By using our website and services (Services), you agree to comply with and be bound by the following Terms of Service. Please read them carefully.
                     </p>
                     <p className="mt-2 text-gray-600">
                         If you do not agree with these terms, you are prohibited from using our services.
@@ -23,9 +23,9 @@ export default function TermsofServices() {
                     <section className="mb-8">
                     <h2 className="text-2xl font-semibold text-gray-800">2. Definitions</h2>
                     <ul className="mt-2 list-disc pl-6 text-gray-600">
-                        <li><strong>"User"</strong>: Any individual or entity that accesses or uses the services provided by us.</li>
-                        <li><strong>"Content"</strong>: Includes text, images, videos, and other media provided by users or us on the website.</li>
-                        <li><strong>"Services"</strong>: All the products, services, and features we offer through our website.</li>
+                        <li><strong>User</strong>: Any individual or entity that accesses or uses the services provided by us.</li>
+                        <li><strong>Content</strong>: Includes text, images, videos, and other media provided by users or us on the website.</li>
+                        <li><strong>Services</strong>: All the products, services, and features we offer through our website.</li>
                     </ul>
                     </section>
 

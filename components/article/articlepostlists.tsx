@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import {getTechnologies, TechnologyMetadata } from '@/lib/technologies'
 import { ArticleMetadata, getArticles } from '@/lib/articles'
 
 
